@@ -15,6 +15,7 @@ My journey in Business Insights and Analytics has equipped me with expertise in 
 - Open-source initiatives focusing on simplifying analytics for everyone.
 📫 How to Reach Me:
 LinkedIn | https://www.linkedin.com/in/rushilparikh/ | 
+
 Email | rushilparikh.bz@gmail.com
 
 ⚡ Fun Fact:
