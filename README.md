@@ -1,4 +1,5 @@
 Hi there 👋
+
 I’m Rushil Parikh, a Business Analyst passionate about uncovering insights through data and simplifying complex problems into actionable solutions.
 My journey in Business Insights and Analytics has equipped me with expertise in tools like Python, SQL, Tableau, and Excel, helping me transform raw data into meaningful strategies.
 
