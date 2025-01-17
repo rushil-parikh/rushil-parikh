@@ -6,6 +6,7 @@ My journey in Business Insights and Analytics has equipped me with expertise in 
 - Exploring real-world applications of data analytics and visual storytelling.
 - Working on impactful projects that bridge the gap between data and decision-making.
 - Building scalable solutions to drive efficiency and growth.
+
 🌱 What I’m Currently Learning:
 - Advanced predictive modeling and data visualization techniques.
 - Exploring cloud-based data solutions to enhance my analytics toolkit.
