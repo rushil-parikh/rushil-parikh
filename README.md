@@ -9,6 +9,7 @@ My journey in Business Insights and Analytics has equipped me with expertise in 
 🌱 What I’m Currently Learning:
 - Advanced predictive modeling and data visualization techniques.
 - Exploring cloud-based data solutions to enhance my analytics toolkit.
+
 💼 Looking to Collaborate On:
 - Data analysis projects that involve business strategy, sales forecasting, and customer behavior analysis.
 - Open-source initiatives focusing on simplifying analytics for everyone.
