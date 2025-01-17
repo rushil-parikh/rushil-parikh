@@ -16,9 +16,8 @@ My journey in Business Insights and Analytics has equipped me with expertise in 
 
 📫 How to Reach Me:
 
-LinkedIn | https://www.linkedin.com/in/rushilparikh/ 
-
-Email | rushilparikh.bz@gmail.com
+- LinkedIn | https://www.linkedin.com/in/rushilparikh/
+- Email | rushilparikh.bz@gmail.com
 
 ⚡ Fun Fact:
 - When I’m not crunching numbers, you’ll find me exploring trails, dancing to Bollywood beats, or binge-watching horror movies!
